@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//test COMMENT
+
 int main()
 {
 	printf("MODviewer.cpp");

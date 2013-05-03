@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//test COMMENT
+
 int main()
 {
 	printf("MODresult.cpp");
